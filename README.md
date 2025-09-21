@@ -120,8 +120,8 @@ pip install -r requirements.txt
 # Run the application
 python app.py
 Folder Structure
-bash
-Copy code
+
+
 AI-personalized-learning/
 │
 ├── backend/           # Flask/Django backend
