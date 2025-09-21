@@ -66,7 +66,7 @@ The platform follows a **modular and scalable architecture**, making it easy to 
 - Secure cloud hosting with SSL.
 
 **High-Level Architecture Diagram:**
-
+```
 +------------------+ +------------------+ +------------------+
 | | REST | | | |
 | Frontend +------->+ Backend +------->+ Database Layer |
@@ -80,8 +80,7 @@ v
 | + ML Models) |
 +------------------+
 
-yaml
-Copy code
+```
 
 ---
 
